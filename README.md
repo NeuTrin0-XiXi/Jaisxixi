@@ -1,7 +1,7 @@
 <!-- ![MasterHead width="600"](https://www.nasa.gov/sites/default/files/thumbnails/image/pillars_of_creation.jpg) -->
 <h1 align="center">Hi 👋, I'm Jaisurya K</h1>
 <h3 align="center">MERN stack developer | Student from India</h3>
-<img align="right" alt="Wanna see me?" width="550" src="https://images.hdqwalls.com/wallpapers/valorant-omen-4k-v9.jpg">
+<img align="right" alt="Wanna see me?" width="400" src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisxixi&label=Profile%20views&color=251818&style=flat" alt="jaisxixi" /> </p>
 
 - 💬 Ask me about **React, Express, MongoDB, NodeJS, JS**
