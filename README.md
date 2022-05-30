@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaisurya K</h1>
 <h3 align="center">MERN stack developer | Student from India</h3>
 
-<img align="right" alt="Wanna see me?" width="400" src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif">   
+<img align="right" width="400" src="https://i0.wp.com/www.cssscript.com/wp-content/uploads/2016/05/TypeWriting.js.png?fit=407%2C303&ssl=1">   
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisxixi&label=Profile%20views&color=251818&style=flat" alt="jaisxixi" /> </p>
 
 - 💬 Ask me about **React, Express, MongoDB, NodeJS, JS**
