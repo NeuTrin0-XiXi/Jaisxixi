@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- ![MasterHead width="600"](https://www.nasa.gov/sites/default/files/thumbnails/image/pillars_of_creation.jpg) -->
 <h1 align="center">Hi 👋, I'm Jaisurya K</h1>
 <h3 align="center">MERN stack developer | Student from India</h3>
-<img align="right" alt="Wanna see me?" width="600" src="https://images.hdqwalls.com/wallpapers/valorant-omen-4k-v9.jpg">
+<img align="right" alt="Wanna see me?" width="550" src="https://images.hdqwalls.com/wallpapers/valorant-omen-4k-v9.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisxixi&label=Profile%20views&color=251818&style=flat" alt="jaisxixi" /> </p>
 
 - 💬 Ask me about **React, Express, MongoDB, NodeJS, JS**
@@ -10,12 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jaisxixi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaisxixi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jai-surya-katla-583b9b1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-surya-katla-583b9b1ba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16625824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16625824" height="30" width="40" /></a>
 <a href="https://instagram.com/neutrin.o_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neutrin.o_0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jaiso_011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaiso_011" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jaisurya11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jaisurya11" height="30" width="40" /></a>
+<a href="https://codepen.io/jaisxixi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaisxixi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16625824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16625824" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
