@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaisurya K</h1>
-<h3 align="center">MERN stack developer | Student from India</h3>
+<h3 align="center">Full stack MERN developer | Student from India</h3>
 
 <img align="right" width="400" src="https://i0.wp.com/www.cssscript.com/wp-content/uploads/2016/05/TypeWriting.js.png?fit=407%2C303&ssl=1">   
 
