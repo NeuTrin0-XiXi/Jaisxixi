@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisxixi&label=Profile%20views&color=251818&style=flat" alt="jaisxixi" /> </p>
 
-- 💬 Ask me about **React, Express, MongoDB, NodeJS, JS**
+- 💬 Ask me about **React, Express, MongoDB, NodeJS, JS, Jupyter**
 
 - 📫 How to reach me **jaisuryak11@gmail.com**
 
