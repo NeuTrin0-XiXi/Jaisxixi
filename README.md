@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jaisurya K</h1>
-<h3 align="center">Full stack MERN developer | Student from India</h3>
-
-<img align="right" width="400" src="https://i0.wp.com/www.cssscript.com/wp-content/uploads/2016/05/TypeWriting.js.png?fit=407%2C303&ssl=1">   
+<h3 align="center">Data Analyst | Graduated from IIT Indore, India</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisxixi&label=Profile%20views&color=251818&style=flat" alt="jaisxixi" /> </p>
 
-- 💬 Ask me about **React, Express, MongoDB, NodeJS, JS, Jupyter**
+- 📚 Interested in Physics, Statistics and Data Science
+
+- 💻 I'm proficient in Python, Advanced Excel, SQL, PowerBI, Tableau and MERN stack (Full stack web development)
 
 - 📫 How to reach me **jaisuryak11@gmail.com**
 
@@ -49,9 +49,9 @@
    <code> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></code>
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
+
 <hr>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
 
+![Spotify- Last played](https://spotify-recently-played-readme.vercel.app/api?count=2&user=qn51eemsp5t92uiquw5yjuugk&width=1000)
