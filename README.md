@@ -55,7 +55,6 @@
 <br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/>
 <hr>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
