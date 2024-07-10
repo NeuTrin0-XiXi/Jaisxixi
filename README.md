@@ -50,11 +50,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
 </div>
 
-
+<div style="display: flex; justify-content: space-between;flex-direction: column">
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
-
-<br><br><br><br><br><br><br>
 <hr>
 
 <h2 align="left">Connect with me:</h2>
@@ -70,5 +68,6 @@
 <a href="https://stackoverflow.com/users/16625824" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16625824" height="30" width="40" /></a>
 </p>
+</div>
 
 ![Spotify- Last played](https://spotify-recently-played-readme.vercel.app/api?count=2&user=qn51eemsp5t92uiquw5yjuugk&width=1000)
