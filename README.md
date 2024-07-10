@@ -11,8 +11,6 @@
 <hr>
 
 <h2 align="left">Languages and Tools:</h2>  
-<div style="display: flex; justify-content: space-between;flex-direction: row">
-  <div>
     <p align="left"> 
       <code><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="git" width="60" height="40"/></a></code>
       <code><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="git" width="140" height="40"/></a></code>
@@ -46,13 +44,10 @@
      <code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></code>
      <code><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></code>
   </p>
-</div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
-</div>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
-<br/><br/><br/><br/><br/><br/><br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/>
 <hr>
