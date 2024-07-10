@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaisurya K</h1>
 <h3 align="center">Data Analyst | Graduated from IIT Indore, India</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaisxixi&label=Profile%20views&color=251818&style=flat" alt="jaisxixi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeuTrin0-XiXi&label=Profile%20views&color=251818&style=flat" alt="NeuTrin0-XiXi" /> </p>
 
 - 📚 Interested in Physics, Statistics and Data Science
 
