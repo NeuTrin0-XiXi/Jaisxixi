@@ -44,10 +44,6 @@
      <code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></code>
      <code><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></code>
   </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
 <hr>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -64,3 +60,9 @@
 </p>
 
 ![Spotify- Last played](https://spotify-recently-played-readme.vercel.app/api?count=2&user=qn51eemsp5t92uiquw5yjuugk&width=1000)
+
+<hr>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
