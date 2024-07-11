@@ -63,6 +63,6 @@
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisxixi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jaisxixi" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisxixi&theme=dark" alt="jaisxixi" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisxixi&show_icons=true&theme=dracula&locale=en" alt="jaisxixi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeuTrin0-XiXi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="NeuTrin0-XiXi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeuTrin0-XiXi&theme=dark" alt="NeuTrin0-XiXi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NeuTrin0-XiXi&show_icons=true&theme=dracula&locale=en" alt="NeuTrin0-XiXi" /></p>
